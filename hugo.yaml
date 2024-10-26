@@ -1,0 +1,13 @@
+baseURL: https://programmingprojects.fyi/
+languageCode: en-us
+title: Programming Projects
+theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: Welcome to Programming Projects
+    Content: >
+      Here you'll find a list of programming projects ideas. If you have an idea for a
+      project and it's not listed please open an issue or better yet a pull request on
+      the Github repository for this site.
+
