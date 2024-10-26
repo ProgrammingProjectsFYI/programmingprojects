@@ -8,6 +8,35 @@ params:
     Title: Welcome to Programming Projects
     Content: >
       Here you'll find a list of programming projects ideas. If you have an idea for a
-      project and it's not listed please open an issue or better yet a pull request on
-      the Github repository for this site.
+      project and it's not listed please [open an issue](https://github.com/ProgrammingProjectsFYI/programmingprojects/issues)
+      or better yet a pull request on the [Github repository for Programming Projects](https://github.com/ProgrammingProjectsFYI/programmingprojects).
+    buttons:
+      - name: Archive
+        url: "/archive"
 
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
+
+analytics:
+  google:
+    SiteVerificationTag: "G-M96Q212P1D"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
