@@ -9,10 +9,9 @@ params:
     Content: >
       Here you'll find a list of programming projects ideas. If you have an idea for a
       project and it's not listed please [open an issue](https://github.com/ProgrammingProjectsFYI/programmingprojects/issues)
-      or better yet a pull request on the [Github repository for Programming Projects](https://github.com/ProgrammingProjectsFYI/programmingprojects).
-    buttons:
-      - name: Archive
-        url: "/archive"
+      or better yet a pull request on the Github repository for [Programming Projects](https://github.com/ProgrammingProjectsFYI/programmingprojects).
+
+  hideSummary: false
 
   ShowShareButtons: true
 
