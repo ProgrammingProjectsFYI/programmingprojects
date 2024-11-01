@@ -1,6 +1,6 @@
 ---
 title: "Build Your Own NTP Client"
-description: "This project is to build and NTP client."
+description: "This project is to build an NTP client."
 tags: [unix, cli, ntp, networking, udp]
 categories: [command line tools, network client]
 ShowToc: true
