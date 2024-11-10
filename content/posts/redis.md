@@ -1,8 +1,8 @@
 ---
 title: "Build Your Own Redis Server"
 description: "This project is to build a redis compatible server."
-tags: [server, networking, protocol, async, concurrency]
-categories: [network server]
+tags: [server, networking, protocol, async, concurrency, redis]
+categories: [network server, redis]
 ShowToc: true
 TocOpen: true
 ---
