@@ -2,7 +2,7 @@
 
 This repository is the source for the website [programmingprojects.fyi](https://programmingprojects.fyi/). It aims to be a one stop shop for programmers and would be programmers to find project ideas.
 
-**Why?** Beccause the best way to learn to program is to program!
+**Why?** Because the best way to learn to program is to program!
 
 ---
 
