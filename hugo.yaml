@@ -4,6 +4,7 @@ title: Programming Projects
 theme: ["PaperMod"]
 
 params:
+  author: "Programming Projects"
   homeInfoParams:
     Title: Welcome to Programming Projects
     Content: >
